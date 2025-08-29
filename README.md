@@ -43,3 +43,9 @@ python qr_generator_app.py
 
 5. Download: Once the QR code is displayed, the "Download as PNG" button will become active. Click it to choose a location and filename to save your QR code image.
 
+## Screenshots
+
+<img width="875" height="917" alt="Screenshot 2025-08-29 205229" src="https://github.com/user-attachments/assets/60d6bc56-cf2a-4e2d-9016-f9aa3fb06e8a" />
+
+<img width="872" height="919" alt="Screenshot 2025-08-29 205327" src="https://github.com/user-attachments/assets/4469670e-a5d1-4f68-88e1-e44d2b51d83c" />
+
