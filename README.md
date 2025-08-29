@@ -26,14 +26,14 @@ pip install qrcode[pil]
 
 **How to Run**
 
-Save the file: Save the provided Python script as qr_generator_app.py.
+Save the file: Save the provided Python script as main.py. (copy or fork)
 
 Open a terminal or command prompt: Navigate to the directory where you saved the file.
 
 Run the script: Execute the script using the Python interpreter.
 
 ```bash
-python qr_generator_app.py
+python main.py
 ```
 
 **How to Use**
